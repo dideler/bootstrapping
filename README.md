@@ -144,6 +144,7 @@ Design (Frontend)
 - [The Noun Project](http://thenounproject.com/) - high quality and royalty-free
 - [Batch](http://adamwhitcroft.com/batch/) - 300 icons for web and user interface design
 - [iconmonstr](http://iconmonstr.com/)
+- [Real Favicon Generator](http://realfavicongenerator.net/) - Generates favicons for different platforms (e.g web, Android, iOS)
 
 #### Background Patterns
 - [The Pattern Library](http://thepatternlibrary.com/) - Free to use patterns by awesome designers
