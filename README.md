@@ -212,6 +212,7 @@ Static Blog Generators / Content Editors
 - [Octopress](http://octopress.org/) - Jekyll framework
 - [Speech Hub](http://alvesjnr.github.com/blog/pages/permalinks/how-to-make-your-github-static-page-a-blog2012-Mar-30.html)
 - [Svbtle](http://svbtle.com/) - invite only
+- [Corilla](http://www.corilla.com) - free and full-featured publishing tool with Markdown editor, inbuilt repository, teams, collaboration, and hosting.
 - [Obtvse](https://github.com/natew/obtvse) - Ruby clone of Svbtle
 - [Simple](https://github.com/orf/simple) - Python clone of Obtvse
 - [ruhoh](http://ruhoh.com/) - by the creator of Jekyll Bootstrap
@@ -380,6 +381,7 @@ Documentation
 - [Sphinx](http://sphinx.pocoo.org/) - write docs in reStructuredText and output to many formats
 - [ASCII Flow](http://www.asciiflow.com/) - create diagrams in ASCII
 - [Read the Docs](https://readthedocs.org/) - free documentation hosting
+- [Corilla](http://www.corilla.com) - free and full-featured publishing tool with Markdown editor, inbuilt repository, teams, collaboration, and hosting.
 
 Testing / Support / Feedback
 ----------------------------
