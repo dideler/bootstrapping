@@ -46,6 +46,7 @@ If you have anything useful to add, open a Pull Request!
 - [Music](#music)
 - [Hackathons](#hackathons)
 - [Scheduling](#scheduling)
+- [Interviewing](#interviewing]
 
 ##### TODO
 - Organize the [unorganized resources](#shit-that-still-needs-to-be-categorized)
@@ -449,6 +450,10 @@ Scheduling
 - [When is Good](http://whenisgood.net/) - find out when everyone is free for your next meeting or event, hassle-free
 - [Doodle](http://doodle.com/)
 - [Envoy](https://signwithenvoy.com/) - visitor registration on the ipad
+
+Interviewing
+------------
+- [CoderPad](https://coderpad.io) - real-time collaborative coding environment for interviewing candidates
 
 Shit that still needs to be categorized
 ---------------------------------------
