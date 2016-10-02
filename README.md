@@ -1,9 +1,9 @@
 **Yet another list**
 
-This is a continuation of my [bootstrapping gist](https://gist.github.com/dideler/1718200)
-which is no longer maintained. I created the bootstrapping gist a long time ago (Feb 1, 2012) before I knew
+This is a continuation of my deprecated [bootstrapping gist](https://gist.github.com/dideler/1718200).
+I created the bootstrapping gist a long time ago (Feb 1, 2012) before I knew
 of [Product Hunt](https://www.producthunt.com/) and [awesome lists](https://github.com/sindresorhus/awesome).
-I don't plan on actively contributing to this list, but I will do basic maintenance.
+I don't plan on actively contributing to this list, but I will do basic maintenance and accept community contributions.
 
 If you have anything useful to add, open a Pull Request!
 
@@ -298,6 +298,7 @@ Online Payment
 - [Signature Pad](https://github.com/ezl/signature-pad) - capture smooth signatures (open source)
 - [Churn Buster](http://churnbuster.io/) - Stop losing money to failed payments in Stripe
 - [Card](http://jessepollak.github.io/card/) - Make your credit card form better in one line of code.
+- [Payhip](https://payhip.com/) - Sell digital content, great when starting to sell one-off products
 
 Marketing
 ---------
